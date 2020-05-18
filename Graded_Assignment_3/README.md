@@ -1,4 +1,4 @@
-Kaggle Competition on PLANET AMAZON data set
+Shailesha - Kaggle Competition on PLANET AMAZON data set
 -------------------------------------------
 1. DATA SET
 2. RESULTS ON TENSORBOARD ----
