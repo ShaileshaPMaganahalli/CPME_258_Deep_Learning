@@ -1,7 +1,7 @@
 Shailesha - Kaggle Competition on PLANET AMAZON data set
 -------------------------------------------
-1. DATA SET
-2. RESULTS ON TENSORBOARD ----
+1. Planet Amazon DataSet
+2. Results are on TENSORBOARD 
 
 Project Execution Steps:
 ------------------------
