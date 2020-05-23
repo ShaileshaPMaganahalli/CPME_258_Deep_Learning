@@ -9,6 +9,6 @@ Articles Published and Links :
 
     1. Medium Article :  https://medium.com/enhancing-speech-and-vision-using-deep-learning/deep-learning-for-speech-and-vision-applications-75d7c36477a3 
 
-    2. Slide Share : https://www.slideshare.net/ShaileshaPMaganahall/deep-learning-in-speech-and-visual-applications 
+    2. Slide Share : https://www.slideshare.net/ShaileshaPMaganahall/deeplearninginspeechandvisualapplications 
 
     3. Video Presentation - https://github.com/ShaileshaPMaganahalli/CPME_258_Deep_Learning/tree/master/Short_Story_Assignment
